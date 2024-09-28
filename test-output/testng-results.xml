@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-27T22:21:15 IST" name="Suite" finished-at="2024-09-27T22:21:58 IST" duration-ms="43400">
+  <suite started-at="2024-09-28T11:41:58 IST" name="Suite" finished-at="2024-09-28T11:42:33 IST" duration-ms="34928">
     <groups>
     </groups>
-    <test started-at="2024-09-27T22:21:15 IST" name="Test1" finished-at="2024-09-27T22:21:50 IST" duration-ms="35139">
+    <test started-at="2024-09-28T11:41:58 IST" name="Test1" finished-at="2024-09-28T11:42:25 IST" duration-ms="26390">
       <class name="seleniumGrid.Nyka">
-        <test-method signature="testParallel(java.lang.String)[pri:0, instance:seleniumGrid.Nyka@2b662a77]" started-at="2024-09-27T22:21:15 IST" name="testParallel" finished-at="2024-09-27T22:21:50 IST" duration-ms="34912" status="PASS">
+        <test-method signature="testParallel(java.lang.String)[pri:0, instance:seleniumGrid.Nyka@c8c12ac]" started-at="2024-09-28T11:41:58 IST" name="testParallel" finished-at="2024-09-28T11:42:25 IST" duration-ms="26340" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -20,9 +20,9 @@
         </test-method> <!-- testParallel -->
       </class> <!-- seleniumGrid.Nyka -->
     </test> <!-- Test1 -->
-    <test started-at="2024-09-27T22:21:15 IST" name="Test3" finished-at="2024-09-27T22:21:57 IST" duration-ms="42001">
+    <test started-at="2024-09-28T11:41:58 IST" name="Test3" finished-at="2024-09-28T11:42:32 IST" duration-ms="33720">
       <class name="seleniumGrid.Nyka">
-        <test-method signature="testParallel(java.lang.String)[pri:0, instance:seleniumGrid.Nyka@776aec5c]" started-at="2024-09-27T22:21:15 IST" name="testParallel" finished-at="2024-09-27T22:21:57 IST" duration-ms="41812" status="PASS">
+        <test-method signature="testParallel(java.lang.String)[pri:0, instance:seleniumGrid.Nyka@557caf28]" started-at="2024-09-28T11:41:58 IST" name="testParallel" finished-at="2024-09-28T11:42:32 IST" duration-ms="33680" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -35,9 +35,9 @@
         </test-method> <!-- testParallel -->
       </class> <!-- seleniumGrid.Nyka -->
     </test> <!-- Test3 -->
-    <test started-at="2024-09-27T22:21:15 IST" name="Test2" finished-at="2024-09-27T22:21:58 IST" duration-ms="43400">
+    <test started-at="2024-09-28T11:41:58 IST" name="Test2" finished-at="2024-09-28T11:42:33 IST" duration-ms="34928">
       <class name="seleniumGrid.Nyka">
-        <test-method signature="testParallel(java.lang.String)[pri:0, instance:seleniumGrid.Nyka@175c2241]" started-at="2024-09-27T22:21:15 IST" name="testParallel" finished-at="2024-09-27T22:21:58 IST" duration-ms="43190" status="PASS">
+        <test-method signature="testParallel(java.lang.String)[pri:0, instance:seleniumGrid.Nyka@1d296da]" started-at="2024-09-28T11:41:58 IST" name="testParallel" finished-at="2024-09-28T11:42:33 IST" duration-ms="34887" status="PASS">
           <params>
             <param index="0">
               <value>

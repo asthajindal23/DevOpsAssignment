@@ -38,8 +38,8 @@ public class Nyka {
 			  driver=new RemoteWebDriver(new URL("http://localhost:4444"),cap);
 		  }
 		  Thread.sleep(5000);
-		  driver.get("https://www.amazon.in");
-		  System.out.println("Title on "+ bname+ "is: "+driver.getTitle());
+		  driver.get("https://www.nykaa.com");
+		  System.out.println("Title on "+ bname+ " is: "+driver.getTitle());
 		  Thread.sleep(15000);
 		  driver.quit();
 		  
